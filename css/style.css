@@ -1,0 +1,61 @@
+.col-md-12{
+    text-align: center;
+    margin-top: 60px;
+}
+.col-md-12 p{
+    font-size: 20px;
+    width: 1400px;
+    max-width: 90%;
+    padding-top: 25px;
+    
+}
+.one{
+    background-color:#007BFF;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.two{
+    background-color:#6C757D;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.col-md-4{
+    
+    padding: 80px 40px;
+    margin-top: 60px;
+}
+#three3{
+    background-color: #55595C;
+    text-align: center;
+    color: white;
+    border: 3px solid greenyellow;  
+}
+#two2{
+    background-color: #55595C;
+    text-align: center;
+    color: white;
+    border: 3px solid greenyellow;  
+}
+#one1{
+    background-color: #55595C;
+    text-align: center;
+    color: white;
+    border: 3px solid greenyellow;  
+}
+#four4{
+    margin-top: 0px;
+    padding-top: 15px;
+
+}
+#five5{
+    margin-top: 0px;
+    padding-top: 15px;
+}
+#six6{
+    margin-top: 0px;
+    padding-top: 15px;
+}
